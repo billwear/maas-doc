@@ -1,4 +1,4 @@
-Starter pack
+sTarTEr PacK
 ============
 
 **A single sentence that says what the product is, succinctly and memorably.**
