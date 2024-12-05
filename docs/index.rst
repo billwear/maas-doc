@@ -63,6 +63,8 @@ Example Project is a member of the Ubuntu family. It’s an open source project 
 .. toctree::
    :hidden:
    :maxdepth: 2
+   :glob:
 
    self
    contributing
+   how-to/*
