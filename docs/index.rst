@@ -1,4 +1,4 @@
-Starter pack
+sTarTEr PacK
 ============
 
 **A single sentence that says what the product is, succinctly and memorably.**
@@ -63,6 +63,8 @@ Example Project is a member of the Ubuntu family. It’s an open source project 
 .. toctree::
    :hidden:
    :maxdepth: 2
+   :glob:
 
    self
    contributing
+   how-tos/*
