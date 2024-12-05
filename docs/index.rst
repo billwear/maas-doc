@@ -67,4 +67,4 @@ Example Project is a member of the Ubuntu family. It’s an open source project 
 
    self
    contributing
-   how-to/*
+   how-tos/*
