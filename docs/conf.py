@@ -23,7 +23,7 @@ import ast
 #
 # TODO: Update with the official name of your project or product
 
-project = "Documentation starter pack"
+project = "MAAS"
 author = "Canonical Ltd."
 
 
@@ -70,6 +70,7 @@ copyright = "%s CC-BY-SA, %s" % (datetime.date.today().year, author)
 #       and is used by social media platforms; see https://ogp.me/
 
 ogp_site_url = "https://canonical-starter-pack.readthedocs-hosted.com/"
+# edit this later "maas-doc"
 
 
 # Preview name of the documentation website
@@ -117,7 +118,7 @@ html_context = {
     #
     # NOTE: If set, adding ':discourse: 123' to an .rst file
     #       will add a link to Discourse topic 123 at the bottom of the page.
-    "discourse": "https://discourse.ubuntu.com",
+    "discourse": "https://discourse.maas.io",
     # Your Mattermost channel URL
     #
     # TODO: Change to your Mattermost channel URL or leave empty.
@@ -133,7 +134,7 @@ html_context = {
     #
     # NOTE: If set, links for viewing the documentation source files
     #       and creating GitHub issues are added at the bottom of each page.
-    "github_url": "https://github.com/canonical/sphinx-docs-starter-pack",
+    "github_url": "https://github.com/billwear/maas-doc"
     # Docs branch in the repo; used in links for viewing the source files
     #
     # TODO: To customise the branch, uncomment and update as needed.
@@ -233,7 +234,7 @@ extensions = [
     "sphinxcontrib.cairosvgconverter",
     "sphinx_last_updated_by_git"
 ]
-
+# consider adding extensions
 
 # Excludes files or directories from processing
 
